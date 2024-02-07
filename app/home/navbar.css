@@ -1,0 +1,46 @@
+#body {
+    border: 2px solid black;
+    height: 13.5%;
+    width: 100%;
+    display: flex;
+}
+
+#logo {
+    height: 100%;
+    width: 23.3%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    padding-left: 5.6%;
+    background: black;
+    cursor: pointer;
+}
+
+#options {
+    height: 100%;
+    width: 49.7%;
+    border: 1px solid black;
+    display: flex;
+    background: black;
+}
+
+.id1 {
+    height: 100%;
+    width: auto;
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    color: white;
+    padding-left: 42px;
+}
+
+#search {
+    height: 100%;
+    width: 27%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    background: black;
+}
